@@ -1,4 +1,4 @@
-# is-online [![Build Status](https://travis-ci.org/sindresorhus/is-online.svg?branch=master)](https://travis-ci.org/sindresorhus/is-online)
+# is-online [![Build Status](https://travis-ci.org/sindresorhus/is-online.svg?branch=master)](https://travis-ci.org/sindresorhus/is-online) [![GuardRails badge](https://badges.production.guardrails.io/shtakai/is-online.svg)](https://www.guardrails.io)
 
 > Check if the internet connection is up
 
